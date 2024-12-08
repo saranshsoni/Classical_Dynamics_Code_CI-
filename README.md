@@ -1,1 +1,3 @@
-# Classical_Dynamics_Code_CI-
+
+
+C++ Code for Simulating Non-Adiabatic Process involving Conical Intersections
